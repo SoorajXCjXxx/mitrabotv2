@@ -1,4 +1,4 @@
-const botToken =`7059376494:AAErG7oBMzUnnL5H7uZRhb1-xAn5DcQySvI`;
+const botToken =`7005262009:AAHmUY_s4KFHsBx2x68FkgUj29IjBVH7Yd0`;
 const TelegramBot = require('node-telegram-bot-api');
 const fs = require("fs");
 const { MongoClient, ServerApiVersion, Admin } = require('mongodb');
