@@ -1,0 +1,2 @@
+Error: ReferenceError: bot is not defined
+    at sendMessage (C:\Users\sooraj\Empire\MitraV1\Mitra_bot_v1\app.js:574:23)
